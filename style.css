@@ -1,0 +1,104 @@
+h1{
+    font-family:"Michroma";
+    font-size: 80px;
+    font-weight: bolder;
+    color: white;
+}
+
+h2{
+    font-family:"Michroma";
+    font-size: 40px;
+    color: white;
+    margin:5px;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+.heading{
+    text-align: center;
+    color: #f7f8f9;
+    font-family: "Michroma", sans-serif;
+    font-weight: 400;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.tagline{
+    text-align: center;
+}
+
+body{
+    background-image: url(space.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    border-radius: 50px;
+}
+
+header{
+    padding: 0px;
+}
+
+.but{
+    width: 115px;
+    border-style: dotted;
+    border-color: rgb(118, 118, 251);
+    text-align: center;
+    background-color: rgb(207, 216, 232);
+    border-radius: 20px;
+    margin: 10px;
+    margin-top: 0px;
+    padding: 08px;
+    font-family:"Michroma", sans-serif;
+    cursor: pointer;
+    color: whitesmoke;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.navbar{
+    padding-top: 0px;
+}
+
+.navbar a{
+    padding: 0px;
+    margin: 0px;
+}
+
+.div1{
+    display: flex;
+    justify-content: center;
+}
+
+.div{
+    padding-left: 20px;
+    text-align: center;
+    background-color: rgba(102, 102, 100, 0.25);
+    border-radius:  40px;
+    width: 300px;
+    height: 300px;
+}
+
+
+p{
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    align-items: center;
+}
+
+.container1{
+    padding-top: 70px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container2{
+    padding-top: 70px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
